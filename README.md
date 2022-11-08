@@ -1,6 +1,6 @@
 # Introduction
 
-A YouTube Video Management App that is built using MVC Architecture. Individuals can sign up, customize & personalize the app. Each user can create a unique playlist of YouTube videos that they desire to view at a later time. Using Google's YouTube API, the official thumbnail image, view count, likes, comments, and date added are displayed for each individual video on the list. 
+Built for a client that works for an organization that funds music videos who needed an easy way to view the statistics of all the videos they had funded at once. A YouTube Video Management App that is built using MVC Architecture. Individuals can sign up, customize & personalize the app. Each user can create a unique playlist of YouTube videos that they desire to view at a later time. Using Google's YouTube API, the official thumbnail image, view count, likes, comments, and date added are displayed for each individual video on the list. 
 
 # Objectives
 
